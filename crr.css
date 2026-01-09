@@ -1,0 +1,563 @@
+* {
+  margin: 0px;
+  padding: 0px;
+
+}
+
+
+.oho {
+  height: fit-content;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.logo {
+  text-align: center;
+  font-size: 50px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: blanchedalmond;
+}
+
+.topdown {
+  display: flex;
+  padding-top: 5px;
+}
+
+.contact {
+
+  padding-left: 160px;
+}
+
+.icon {
+  padding-left: 20px;
+  gap: 30px;
+
+}
+
+
+.nav-links {
+  display: flex;
+  gap: 50px;
+  
+  padding-left: 500px;
+  padding-right: 190px;
+
+  font-size: 20px;
+  font-weight: 500;
+
+
+}
+
+.nav-links a {
+
+  text-decoration: none;
+  color: gainsboro
+}
+
+.image {
+  position: absolute;
+  top: 0px;
+  z-index: -1;
+  left: 0px;
+  width: 100%;
+  height: 750px;
+  opacity: 1;
+
+}
+
+.image img {
+  width: 100%;
+  object-fit: cover;
+  height: 100%;
+}
+
+.divo {
+  background-color: black;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  opacity: 0.6;
+  width: 100%;
+}
+
+.main {
+  height: fit-content
+}
+
+.hero {
+  padding-top: 200px;
+}
+
+.hero-content {
+  color: chocolate;
+  top: 50%;
+  font-size: 20px;
+  padding-left: 12%;
+  font-size: 30px;
+}
+
+.butt {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  border-radius: 900px;
+  border: 1px solid rgb(235, 230, 230);
+  color: chocolate;
+  font-size: 30px;
+  background-color: burlywood;
+
+
+}
+
+.butt:hover {
+  background-color: blanchedalmond;
+}
+
+.oo {
+   border: transparent; 
+  font-size: medium;
+  color: rgb(211, 137, 25);
+}
+
+.oo:hover {
+  background-color: chocolate;
+}
+
+.imgg {
+  position: relative;
+  padding-left: 700px;
+  padding-top: 50px;
+
+}
+
+.yumm {
+  background-color: black;
+padding-bottom: 100px;
+
+}
+
+.txt {
+  display: flex;
+  font-size: 50px;
+  padding-left: 400px;
+  padding-top: 100px;
+  padding-bottom: 50px;
+  color: antiquewhite;
+  text-transform: capitalize;
+}
+
+.ttt {
+  display: flex;
+}
+
+.ii {
+  padding-left: 300px;
+  padding-right: 50px;
+  padding-top: 30px;
+  color: antiquewhite;
+}
+
+.inside {
+  padding-left: 300px;
+  color: rgb(220, 128, 15);
+  font-size: 30px;
+}
+
+.hh {
+  padding-bottom: 50px;
+
+}
+
+.umma {
+  padding-top: 195px;
+}
+
+.now {
+
+  display: flex;
+  justify-content: space-around;
+  background-color: black;
+  
+
+}
+
+.bottomm {
+  background-color: black;
+  padding-top: 50px;
+
+}
+
+.up {
+  text-align: center;
+  color: bisque;
+  font-size: 20px;
+  padding-bottom: 40px;
+  font-family: sans-serif;
+
+}
+
+.cor {
+  padding-top: 50px;
+  font-size: 20px;
+}
+.now{
+  padding-top: 50px;
+  padding-bottom: 70px;
+}
+.bottomm {
+  padding-bottom: 100px;
+
+}
+
+.hungry {
+  color: beige;
+  display: flex;
+  gap: 30px;
+  border-top: 1px solid white;
+  
+
+  border-bottom: 1px solid white;
+  justify-content: space-between;
+
+}
+
+.bhok {
+  padding-bottom: 50px;
+  padding-right: 100px;
+  border-right: 1px solid white;
+  padding-left: 130px;
+}
+
+.lagyo {
+  padding-bottom: 50px;
+  padding-right: 130px;
+  border-right: 1px solid white;
+  padding-left: 100px;
+}
+
+.mylord {
+    padding-bottom: 50px;
+  padding-right: 100px;
+  border-right: 1px solid white;
+  padding-left: 100px;
+}
+ .pic{
+  height: 45vh;
+
+ }
+ .tuu{
+
+ width: 50%;
+padding-left: 25px;
+  border-top: 1px solid white;
+  border-right: 1px solid white;
+  border-bottom: 1px solid white;
+
+}
+ 
+.id {
+  display: flex;
+
+}
+
+.jj {
+  border-radius: 100px;
+}
+
+.po {
+  padding-top: 20px;
+   padding-left: 10px;
+  font-size: 15px;
+}
+
+.woo {
+  background-color: black;
+  padding-top: 50px;
+
+}
+
+.more {
+  display: flex;
+  gap: 1000px;
+  padding-bottom: 80px;
+
+}
+
+.nii {
+  font-size: 30px;
+  color: bisque;
+  padding-left: 100px;
+  text-transform: capitalize;
+}
+
+.info {
+  font-size: 30px;
+  background-color: goldenrod;
+  text-transform: capitalize;
+
+}
+
+.buy {
+  padding-left: 100px;
+}
+
+.ee {
+  color: goldenrod;
+  font-size: 25px;
+  padding-left: 8px;
+  padding-top: 20px;
+}
+
+.dot {
+  padding-top: 30px;
+  color: white;
+  padding-left: 8px;
+  padding-right: 10px;
+  font-size: 17px;
+}
+
+
+
+.rii {
+  display: flex;
+}
+.ree {
+  display: flex;
+}
+
+.pp {
+  padding-top: 30px;
+  padding-left: 8px;
+ 
+
+}
+
+.pp a {
+  color: goldenrod;
+  text-decoration: none;
+  font-size: 15px;
+
+}
+
+
+ .endd {
+  display: flex;
+padding-left: 60px;
+gap: 20px;
+} 
+
+.qq {
+  color: goldenrod;
+}
+
+.tt {
+  color: white;
+}
+
+
+
+
+
+.kk {
+  text-align: center;
+  color: white;
+  text-transform: capitalize;
+  font-size: 15px;
+  padding-top: 50px;
+  padding-bottom: 10px;
+
+}
+
+.ly {
+  padding-top: 50px;
+  background-color: black;
+  border-bottom: 1px solid white;
+}
+
+.inr {
+  color: azure;
+  padding-left: 780px;
+  display: flex;
+
+}
+
+.uu a {
+
+  color: white;
+  text-decoration: none;
+
+}
+
+.ww {
+  padding-top: 50px;
+  display: flex;
+  gap: 45px;
+   
+  padding-left: 40px;
+  padding-right: 20px;
+
+}
+.bgr{
+width: 60%;
+}
+.pea{
+  padding-top: 100px;
+}
+
+.cc {
+  padding-top: 80px;
+ padding-left: 130px;
+  color: goldenrod;
+  font-size: 50px;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.yuuu {
+  display: flex;
+  padding-bottom: 100px;
+  border-bottom: 1px solid white;
+  padding-left: 50px;
+
+}
+
+.again {
+  padding-top: 80px;
+
+}
+
+.navs {
+  display: flex;
+  gap: 50px;
+  align-items: center;
+  padding-left: 600px;
+
+  padding-top: 20px;
+  font-size: 20px;
+  font-weight: 500;
+
+
+}
+
+.navs a {
+
+  text-decoration: none;
+  color: gainsboro
+}
+
+.almost {
+  color: whitesmoke;
+  padding-top: 60px;
+  display: flex;
+}
+
+.hoho {
+  display: flex;
+  padding-top: 20px;
+  padding-bottom: 50px;
+  gap: 10px;
+}
+
+.lll {
+  display: flex;
+  padding-top: 10px;
+}
+
+.comme {
+  box-sizing: content-box;
+  background-color: transparent;
+  border-color: white;
+  padding-left: 9px;
+  height: fit-content;
+}
+
+.vv {
+  padding-top: 7px;
+}
+
+.yy {
+  padding-top: 4px;
+}
+
+
+
+.fb {
+  display: flex;
+  padding-top: 8px;
+}
+
+.salute {
+  padding-top: 8px;
+  display: flex;
+}
+
+.hoho a {
+  text-decoration: none;
+  color: azure;
+}
+
+.ln {
+  padding-top: 5px;
+}
+
+.gg {
+  padding-top: 5px;
+}
+
+.twoo {
+  color: white;
+  display: flex;
+  gap: 30px;
+  padding-left: 30px;
+
+}
+
+.df {
+  padding-left: 300px;
+  padding-top: 5px;
+  color: goldenrod;
+  text-transform: capitalize;
+  font-size: 20px;
+}
+
+.tr {
+  padding-left: 300px;
+  padding-top: 15px;
+}
+
+.tg {
+  padding-top: 5px;
+  color: goldenrod;
+  text-transform: capitalize;
+  font-size: 20px;
+  padding-right: 100px;
+}
+
+.sa {
+  padding-top: 15px;
+}
+
+.onee {
+  padding-left: 30px;
+  padding-top: 30px;
+}
+
+.footer {
+  background-color: black;
+  color: beige;
+  text-align: center;
+  padding-top: 20px;
+  padding: 20px;
+}
+
+.tii {
+  display: flex;
+}
+
+.id {
+  height: 50px;
+}
